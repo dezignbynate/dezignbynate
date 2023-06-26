@@ -1,4 +1,4 @@
-- Motion/graphic designer - currently experimenting with front end web development in order to broaden my skill set.
+- Motion/graphic designer
 - ENG/FR
 
 <!---
